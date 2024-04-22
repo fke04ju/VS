@@ -1,0 +1,68 @@
+{
+	"Special Picture" :
+	[
+		{
+			"Name": "sad",
+			"Path": "./source/sad.png",
+			"Ratio" : 0
+		},
+		{
+			"Name": "sad",
+			"Path": "./source/sad.png",
+			"Ratio" : -100
+		}
+	],
+	"Background" :
+	{
+		"Path": "./source/casino.jpg"
+	},
+	"RouletteBackground" :
+	{
+		"Path": "./source/beach.jpg"
+	},
+	"Picture":
+	[
+		{
+			"Name": "cherry",
+			"Path": "./source/cherry.jpg",
+			"Ratio" : 5
+		},
+		{
+			"Name": "mango",
+			"Path": "./source/mango.jpg",
+			"Ratio" : 10
+		},
+		{
+			"Name": "bell",
+			"Path": "./source/bell.jpg",
+			"Ratio" : 20
+		},
+		{
+			"Name": "lemon",
+			"Path": "./source/lemon.png",
+			"Ratio" : 25
+		},
+		{
+			"Name": "watermelon",
+			"Path": "./source/watermelon.jpg",
+			"Ratio" : 30
+		},
+		{
+			"Name": "star",
+			"Path": "./source/star.jpg",
+			"Ratio" : 40
+		},
+		{
+			"Name": "77",
+			"Path": "./source/77.jpg",
+			"Ratio" : 50
+		},
+		{
+			"Name": "Bar",
+			"Path": "./source/bar.jpg",
+			"Ratio" : 100
+		}
+	],
+
+	"Roulette": [100, 1, 2, 3, 4, 5, 6, 0, 1, 2, 3, 4, 5, 7, 100, 1, 2, 3, 4, 5, 6, 0, 1, 2, 3, 4, 5, 7]
+}
